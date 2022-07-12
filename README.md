@@ -1,2 +1,0 @@
-# bandwidthd
-Fork of bandwidthd.
